@@ -52,7 +52,7 @@ Shoezap is an innovative web application that allows users to find the perfect s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shoezap.git
+   git clone https://github.com/Abishekmrgstar/shoezap.git
    cd shoezap
 2. *Create and activate a virtual environment:*:
    ``` bash
