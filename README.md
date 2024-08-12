@@ -91,7 +91,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - YOLOv8 for providing the object detection framework.
 - Flask for the web framework.
 - Gemini API for powering the chat functionality.
-- 
+
+### Collaborators
+
+- **[PriyaDharshini22-2005](https://github.com/PriyaDharshini22-2005)**
+- **[Devakesavan](https://github.com/Devakesavan)**
+- **[Dhatchayani2006](https://github.com/Dhatchayani2006)**
+- **[karthikeyan261222](https://github.com/karthikeyan261222)**
 ## Contact
 
 For any inquiries, please contact us at [byteknightsbk24@gmail.com](mailto:byteknightsbk24@gmail.com)
