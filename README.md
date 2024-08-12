@@ -62,7 +62,7 @@ Shoezap is an innovative web application that allows users to find the perfect s
 
 ```
 ## Download `best.pt` File
-###and kindly edit code in all py files and js based on the correct file path
+### and kindly edit code in all py files and js based on the correct file path
 
 You can download the `best.pt` file from the following link and store in gemini-bot file:
 
@@ -77,19 +77,40 @@ You can download the `best.pt` file from the following link and store in gemini-
 
 ### Open the application:
 Navigate to the URL where the Flask server is running (e.g., [http://127.0.0.1:8080/](http://127.0.0.1:8080/)).
+![image](https://github.com/user-attachments/assets/1ffd84ed-55da-4e0c-9191-f1640616c747)
 
 ### Chat with the Gemini API:
 1. Enter a description of your ideal shoe in the chat interface.
 2. The system will suggest shoes based on your input.
+3. ![image](https://github.com/user-attachments/assets/8864e4b2-eef2-4c4f-9ce1-0e2701fb7c5f)
 
 ### Virtual Try-On:
 1. Select a shoe from the recommendations.
+   ![image](https://github.com/user-attachments/assets/92ccf2c7-27af-4ae4-ad1b-783b71854f6a)
+
 2. Use the virtual try-on feature to see how the shoe looks in 2D on your feet.
+
+![image](https://github.com/user-attachments/assets/e00c5780-69d8-460b-a21c-544eaa900b6a)
+
+
+![iWITHSHOES](https://github.com/user-attachments/assets/400888d6-fb6a-41f6-bca8-85fca84051c3)
+
+
 
 ## Models Used
 - YOLOv8: For detecting the shoe in images and accurately placing it on the user's foot in the virtual try-on.
 - Background Remover: Removes unnecessary background from shoe images to provide a clean visual.
 - Text2Image: Converts text descriptions into shoe images, helping users visualize their desired shoes.
+![image](https://github.com/user-attachments/assets/a4bd3c2e-b4cf-4a17-898e-b5becefa5527)
+![image](https://github.com/user-attachments/assets/46144ba8-c88f-45a7-9d62-903c60d6edc6)
+
+## BEFORE
+![blue](https://github.com/user-attachments/assets/5928fb5a-f37b-4303-9795-9c638212a06e)
+
+## AFTER
+![image](https://github.com/user-attachments/assets/0a0c0ef0-5790-43ca-8919-1d943b057290)
+
+
 
 
 ## License
