@@ -2,6 +2,12 @@
 
 Shoezap is an innovative web application that allows users to find the perfect shoe based on their prompts. Users can interact with the system using natural language through a chat interface powered by the Gemini API. Once a shoe is selected, users can virtually try it on in 2D using advanced machine learning models.
 
+## Watch the Shoezap Video
+
+[![Watch the Shoezap Video](https://img.shields.io/badge/Watch_the_Video-%23007bff?style=for-the-badge&logo=video&logoColor=white)](https://github.com/user-attachments/assets/ed89006b-5b2d-4409-9c12-cd0296971254)
+
+
+ 
 ## Features
 
 - Chat with Gemini API: Users can describe their ideal shoe, and the system will recommend options based on their prompts.
