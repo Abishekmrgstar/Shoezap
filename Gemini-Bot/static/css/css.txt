@@ -1,0 +1,1 @@
+Css of the app is stored here in this folder
